@@ -33,9 +33,12 @@ Built while mastering Next.js through its official documentation, Monetrix showc
 
 ## 📸 Screenshots
 
-<!-- You can upload images and link them like below -->
-<!-- ![Dashboard](./public/screenshots/dashboard.png) -->
-<!-- ![Add Invoice](./public/screenshots/add-invoice.png) -->
+<img width="1899" height="1063" alt="monetrix-homepage" src="https://github.com/user-attachments/assets/5bd80913-9135-4c8b-955f-e20951710938" />
+<img width="1907" height="1071" alt="monetrix-dashboard" src="https://github.com/user-attachments/assets/832a71b3-87aa-48b5-a211-dc51a31ab9c3" />
+<img width="1908" height="899" alt="monetrix-invoices" src="https://github.com/user-attachments/assets/2c348207-c233-4ee9-bfcb-2695ed292fea" />
+
+
+
 
 ---
 
