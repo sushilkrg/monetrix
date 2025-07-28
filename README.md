@@ -8,7 +8,7 @@ Built while mastering Next.js through its official documentation, Monetrix showc
 
 ## 🚀 Features
 
-- ✅ User authentication (if implemented)
+- ✅ User authentication
 - 📄 Add, edit, delete invoices
 - 🔍 Search with **debouncing** for performance
 - 📚 Paginated invoice list
